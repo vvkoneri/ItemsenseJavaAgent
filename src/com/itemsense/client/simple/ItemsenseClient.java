@@ -150,7 +150,7 @@ public class ItemsenseClient {
 
 			HttpResponse<String> killResponse = Unirest
 					.post("https://13.93.204.147/Thingworx/Things/Antenna_01/Services/DeleteRfidEntry?rf_Id=" + rfId)
-					.header("appkey", "e6159a5e-34c0-45fa-9a5a-a8f7f366b6df").header("Content-type", "application/json")
+					.header("appkey", "").header("Content-type", "application/json")
 					.asString();
 
 		} catch (KeyManagementException | NoSuchAlgorithmException | KeyStoreException e) {
