@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/unirest-java-1.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/json-20160212.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/httpasyncclient-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/httpcore-nio-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/httpcore-nio-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/jackson-annotations-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/jackson-core-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/jackson-databind-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/jackson-dataformat-smile-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/joda-time-2.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/json-20140107.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/logback-core-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/netty-all-4.0.30.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/thingworx-common-java-sdk-6.0.2.server.build.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/thingworx-communications-client-java-sdk-6.0.2.server.build.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/thingworx-java-sdk-java-sdk-6.0.2.server.build-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vkoneri/Downloads/TW_Download_Java SDK/lib/unirest-java-1.4.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
